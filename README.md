@@ -8,3 +8,5 @@ As a side note, I think that it is very interesting that this upgrade is being c
 # Comments
 
 Please place your comments here:
+
+I found it interesting to learn more about the "merge" and also be introduced to the possible issues the Ethereum network could face as a result, and I hadn't previously considered how this topic could help the general public understand software engineering concepts so I thought that was interesting to bring up -Anvi
